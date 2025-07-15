@@ -8610,3 +8610,12 @@
 7/15/2025 | 8:28:53 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 7/15/2025 | 8:28:53 AM | INFO | Trying to activate mining on-chain for wallet: 0xF99745aac0EEB7C04197327872514f2C6D9B8bEB 
 7/15/2025 | 8:28:58 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x14a26d68de606e91c536072fbefda735bd657c5dde1c90e231a9b6fd6485e862 
+7/15/2025 | 12:43:24 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/15/2025 | 12:43:24 PM | INFO | Start process for wallet 0xF99745aac0EEB7C04197327872514f2C6D9B8bEB 
+7/15/2025 | 12:43:25 PM | INFO | Trying To Login for wallet: 0xF99745aac0EEB7C04197327872514f2C6D9B8bEB 
+7/15/2025 | 12:43:26 PM | INFO | Login successful... 
+7/15/2025 | 12:43:26 PM | INFO | Trying to check user info... 
+7/15/2025 | 12:43:27 PM | INFO | User ID: 103290129 | Twitter: @rvirnaa | Total Points: 3264000 
+7/15/2025 | 12:43:27 PM | INFO | Trying to check user miner status... 
+7/15/2025 | 12:43:27 PM | INFO | Last mining time: 7/15/2025, 8:28:57 AM
+7/15/2025 | 12:43:27 PM | WARN | Mining already started, next mining time is: 7/16/2025, 8:28:57 AM
